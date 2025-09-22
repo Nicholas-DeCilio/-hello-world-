@@ -1,2 +1,2 @@
-# Hello World
-“Trying to figure out how to use this git hub thing”
+# Updating a new branch
+“I'm updating this new branch to see what happens”

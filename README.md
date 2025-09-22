@@ -1,2 +1,2 @@
-# Updating a new branch
-“I'm updating this new branch to see what happens”
+# Trying out Github with a few python projects
+“Testing out how to use github. Will be uploading a few python projects as I go along”
